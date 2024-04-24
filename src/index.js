@@ -59,7 +59,7 @@ var HubspotSignature = function() {
 
 
 HubspotSignature.inputs = [
-    InputField("secret", "Secret", "String", { persisted: true, placeholder: "Enter an your hubspot secret key"}),
+    InputField("secret", "Secret", "String", { persisted: true, placeholder: "Enter your hubspot secret key"}),
     InputField("version", "Version", "Select", {"choices": {"1": "Version 1", "2": "Version 2", "3": "Version 3", "header": " X-HubSpot-Signature-Version header value"}, default: 2, persisted: true})
 ];
 
