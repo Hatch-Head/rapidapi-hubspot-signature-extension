@@ -66,7 +66,7 @@ HubspotSignature.inputs = [
 HubspotSignature.identifier = "com.hatchhead.HubspotSignature";
 HubspotSignature.version = "1.0";
 HubspotSignature.title = "Hubspot Signature";
-HubspotSignature.help = "https://luckymarmot.com/paw/doc/";
+HubspotSignature.help = "https://github.com/Hatch-Head/rapidapi-hubspot-signature-extension";
 
 // You can import third-party modules here
 // import axios from 'axios';
